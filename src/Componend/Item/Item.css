@@ -1,0 +1,33 @@
+.item{
+margin-bottom: 30px;
+ padding: 10px;
+ width: 90%;
+ height: auto;
+ box-shadow: 5px 5px 5px lightgray;
+ border-radius: 15px;
+ height: 560px;
+}
+
+.item div img {
+height: 200px;
+width: 100%;
+border-radius: 15px;
+box-shadow: 3px 3px 3px skyblue;
+}
+.pera{
+ 
+  height: 130px;
+  width: 90%;
+  margin: 10px;
+}
+.pera h4 {
+  margin: 0px;
+}
+button{
+  background-color: skyblue;
+  padding: 10px;
+  border-radius: 15px;
+  border: 2px solid darkred;
+  width: 50%;
+  margin-bottom: 10px;
+}
